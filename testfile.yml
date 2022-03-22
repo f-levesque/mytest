@@ -2,7 +2,7 @@
 Switch1
   interface:
     - eth0:
-        ipadd: 192.168.1.1
+        ipadd: 192.168.5.1
         netmask: /24
     - eth1:
         ipadd: 192.168.2.1
